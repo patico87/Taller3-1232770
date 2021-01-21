@@ -1,0 +1,25 @@
+
+X	java:S125R"<This block of commented-out lines of code should be removed.(ºşæ—8úëèò.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(àêßòşÿÿÿÿ8„è‰Àñ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(çÿ›³úÿÿÿÿ8ê»–ßñ.
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(à¹Ì8§¨–´ò.
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(ØŸïœ8§¨–´ò.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ãşîãşÿÿÿÿ8Îßßñ.
+m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÌÃ£8›–®¹ï.
+N
+java:S1481",Remove this unused "cliente" local variable.(³Í­´ıÿÿÿÿ8ŠğÒ±ò.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¾ÿÃüÿÿÿÿ8´‚¬¹ï.
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(Ì¥Øıÿÿÿÿ8§¨–´ò.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–÷ÈË8Ãü¸ï.
+]
+java:S1854";Remove this useless assignment to local variable "cliente".(³Í­´ıÿÿÿÿ8ŠğÒ±ò.
+o
+java:S1192F"MDefine a constant instead of duplicating this literal "InformaciÃ³n" 7 times.(º×œ÷øÿÿÿÿ8ñ½¨´ò.
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(»ÃÉÅ8§¨–´ò.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àêßòşÿÿÿÿ8—†û¸ï.
+S
+java:S18547"6Remove this useless assignment to local variable "in".(äÆ¾Ó8úî¹ßñ.
+U	java:S106{"9Replace this use of System.out or System.err by a logger.(×¶…Ù8§¨–´ò.
